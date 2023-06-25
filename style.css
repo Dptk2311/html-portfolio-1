@@ -1,0 +1,36 @@
+
+body{
+    background-color:black;
+    font-size: larger;
+}
+h1{
+    color: #FFF1DC;
+    text-align: left;
+}
+h2{
+    color: #E8D5C4;
+    text-align: left;
+}
+h3{
+    color: #FD8A8A;
+}
+a:link { text-decoration: none; }
+
+
+
+h3{
+    font-size:2rem;
+}
+img{
+    width: 380px;
+    height:  300px;
+}
+
+#main{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.footer{
+    color:#EAC7C7
+}
